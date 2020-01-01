@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Othmane Marfoq - Home
+
+~~~
+{}{img_left}{./photos/omarfoq_suit.jpg}{Photograph in a suit}{194}{247}{}
+I am a first-year PhD student at Inria Sophia-Antipolis (Team <a href="https://team.inria.fr/neo/">NEO</a>) under the supervision of Pr. <a href="http://www-sop.inria.fr/members/Giovanni.Neglia/">Giovanni Neglia</a>. My research interests are in machine learning, optimization, and distributed systems. Specific topics include: federated and on-device learning, large-scale machine learning, distributed optimization and continual machine learning.
+~~~
+
+== Contact
+~~~
+Email: othmane \[dot\] marfoq AT inria \[dot\] fr\n
+
+[https://github.com/omarfoq Github]\n
+
+[https://www.linkedin.com/in/othmane-marfoq-6b859012b/ LinkedIn]\n
+
+Office: BP 117\n
+Inria\n
+2004 route des Lucioles,\n
+06902 Sophia Antipolis, France\n
+~~~
+
+== News
+- Nov. 2019 - Started my PhD at Inria
