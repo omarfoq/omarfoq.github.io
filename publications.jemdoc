@@ -1,4 +1,8 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 ==Othmane Marfoq - Publications
 
+== 2019
+- *Othmane Marfoq*, Chuan Xu, Giovanni Neglia, Richard Vidal, /Throughput-Optimal Topology Design for Cross-Silo Federated Learning/, NeurIPS 2020.\n
+\[[https://arxiv.org/abs/2010.12229 Preprint]\] \[[https://github.com/omarfoq/communication-in-cross-silo-fl Code]\] 
+
 

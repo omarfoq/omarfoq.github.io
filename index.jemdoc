@@ -2,8 +2,10 @@
 ==Othmane Marfoq - Home
 
 ~~~
-{}{img_left}{./photos/omarfoq_suit.jpg}{Photograph in a suit}{194}{247}{}
-I am a first-year PhD student at Inria Sophia-Antipolis (Team <a href="https://team.inria.fr/neo/">NEO</a>) under the supervision of Pr. <a href="http://www-sop.inria.fr/members/Giovanni.Neglia/">Giovanni Neglia</a>. My research interests are in machine learning, optimization, and distributed systems. Specific topics include: federated and on-device learning, large-scale machine learning, distributed optimization and continual machine learning.
+{}{img_left}{./photos/omarfoq_suit.jpg}{Photograph in a suit}{194}{184}{}
+I am a first-year PhD student at Inria Sophia-Antipolis (Team <a href="https://team.inria.fr/neo/">NEO</a>). I work on federated learning and distributed optimization under the supervision of <a href="http://www-sop.inria.fr/members/Giovanni.Neglia/">Giovanni Neglia.
+
+My research interests are in machine learning, optimization, and distributed systems. Specific topics include: federated and on-device learning, large-scale machine learning, and distributed optimization.
 ~~~
 
 == Contact
@@ -20,4 +22,5 @@ Office: BP 129, Inria\n
 ~~~
 
 == News
+- Sep. 2019 - Accepted [https://arxiv.org/pdf/2010.12229.pdf conference paper] at NeurIPS 2019
 - Nov. 2019 - Started my PhD at Inria
