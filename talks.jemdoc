@@ -3,5 +3,8 @@
 
 Here is a list of the talks or presentation I gave or will give.
 
-== 2020
-- [https://univ-cotedazur.fr/events-uca/sophia-summit/ SophI.A summit] (19/11/2020), /Throughput-Optimal Topology Design for Cross-Silo Federated Learning/ \[[pdfs/talk_sophia_20.pdf]\]
+==2021
+- [http://federated-learning.org/fl-icml-2021/ FL-ICML'21] (24/07/2021), /Federated Multi-Task Learning under a Mixture of Distributions/ \[[pdfs/talk_fl_icml_21.pdf slides]\] \[[pdfs/poster_fl_icml_21.pdf poster]\] 
+
+==2020
+- [https://univ-cotedazur.fr/events-uca/sophia-summit/ SophI.A summit] (19/11/2020), /Throughput-Optimal Topology Design for Cross-Silo Federated Learning/ \[[pdfs/talk_sophia_20.pdf slides]\]
