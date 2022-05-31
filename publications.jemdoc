@@ -1,9 +1,12 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 ==Othmane Marfoq - Publications
 
+== 2022
+- *Othmane Marfoq*, Giovanni Neglia, Laetitia Kameni, Richard Vidal, /Federated Multi-Task Learning under a Mixture of Distributions/, ICML 2022.\n
+\[[https://arxiv.org/abs/2111.09360 Preprint]\] 
 == 2021
 - *Othmane Marfoq*, Giovanni Neglia, Aurélien Bellet, Laetitia Kameni, Richard Vidal, /Federated Multi-Task Learning under a Mixture of Distributions/, NeurIPS 2021.\n
-\[[https://arxiv.org/abs/2108.10252 Preprint]\] \[[https://github.com/omarfoq/FedEM Code]\] 
+\[[https://arxiv.org/abs/2108.10252 Preprint]\] \[[https://github.com/omarfoq/FedEM Code]\] \[[https://proceedings.neurips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf Proceedings]] \[[pdfs/poster_nips_21.pdf Poster]\] 
 
 == 2020
 - *Othmane Marfoq*, Chuan Xu, Giovanni Neglia, Richard Vidal, /Throughput-Optimal Topology Design for Cross-Silo Federated Learning/, NeurIPS 2020.\n
