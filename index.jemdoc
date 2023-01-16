@@ -22,9 +22,12 @@ Office: BP 129, Inria\n
 ~~~
 
 == News
-- Jun. 2022 - [pdfs/talk_gdr_rsd_distributed_learning_22.pdf Talk] given at [https://sites.google.com/view/journee-gdr-ia-distribuee/accueil GDR RSD thematic day on distributed learning]
+- Dec. 2022 - Accepted [https://arxiv.org/abs/2301.04632 conference paper] at IEEE INFOCOM 2023
+- Nov. 2020 - [pdfs/talk_sophia_22.pdf Talk] "Federated Learning for Data Streams" given at [https://univ-cotedazur.fr/events-uca/sophia-summit SophI.A summit 2022] 
+- Sep. 2022 - Accepted [https://arxiv.org/abs/2210.04620 conference paper] at the NeurIPS 2022 Datasets and Benchmarks Track
+- Jun. 2022 - [pdfs/talk_gdr_rsd_distributed_learning_22.pdf Talk] "Personalized Federated Learning through Local Memorization" given at [https://sites.google.com/view/journee-gdr-ia-distribuee/accueil GDR RSD thematic day on distributed learning]
 - May. 2022 - Accepted [https://arxiv.org/abs/2111.09360 conference paper] at ICML 2022
 - Sep. 2021 - Accepted [https://arxiv.org/pdf/2108.10252.pdf conference paper] at NeurIPS 2021
-- Jul. 2021 - [pdfs/talk_fl_icml_21.pdf Talk] given at [http://federated-learning.org/fl-icml-2021/ FL-ICML'21]
-- Nov. 2020 - [pdfs/talk_sophia-summit_11-2020_throughput_optimal.pdf Talk] given at [https://univ-cotedazur.fr/events-uca/sophia-summit SophI.A summit 2020] 
+- Jul. 2021 - [pdfs/talk_fl_icml_21.pdf Talk] "Federated Multi-Task Learning under a Mixture of Distributions" given at [http://federated-learning.org/fl-icml-2021/ FL-ICML'21]
+- Nov. 2020 - [pdfs/talk_sophia_20.pdf Talk] "Throughput-Optimal Topology Design for Cross-Silo Federated Learning" given at [https://univ-cotedazur.fr/events-uca/sophia-summit SophI.A summit 2020] 
 - Sep. 2020 - Accepted [https://arxiv.org/pdf/2010.12229.pdf conference paper] at NeurIPS 2020

@@ -1,9 +1,18 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 ==Othmane Marfoq - Publications
 
+== 2023
+- *Othmane Marfoq*, Giovanni Neglia, Laetitia Kameni, Richard Vidal, /Federated Learning for Data Streams/, Under Review.\n
+\[[https://arxiv.org/pdf/2301.01542.pdf Preprint]\] \[[https://github.com/omarfoq/streaming-fl Code]\]
+- Angelo Rodio, Francescomaria Faticanti, *Othmane Marfoq*, Giovanni Neglia, Emilio Leonardi, /Federated Learning under Heterogeneous and Correlated Client Availability/, IEEE INFOCOM 2023.\n
+\[[https://arxiv.org/pdf/2301.04632.pdf Preprint]\] \[[https://github.com/arodio/CA-Fed Code]\]
+
 == 2022
-- *Othmane Marfoq*, Giovanni Neglia, Laetitia Kameni, Richard Vidal, /Federated Multi-Task Learning under a Mixture of Distributions/, ICML 2022.\n
+- Jean Ogier du Terrail, Samy-Safwan Ayed, Edwige Cyffers, Felix Grimberg, Chaoyang He, Regis Loeb, Paul Mangold, Tanguy Marchand, *Othmane Marfoq*, Erum Mushtaq, Boris Muzellec, Constantin Philippenko, Santiago Silva, Maria Teleńczuk, Shadi Albarqouni, Salman Avestimehr, Aurélien Bellet, Aymeric Dieuleveut, Martin Jaggi, Sai Praneeth Karimireddy, Marco Lorenzi, Giovanni Neglia, Marc Tommasi, Mathieu Andreux, /FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings/, NeurIPS 2022 Track on Datasets and Benchmarks.\n
+\[[https://arxiv.org/pdf/2210.04620.pdf Preprint]\] \[[https://github.com/owkin/flamby Code]\]
+- *Othmane Marfoq*, Giovanni Neglia, Laetitia Kameni, Richard Vidal, /Personalized Federated Learning through Local Memorization/, ICML 2022.\n
 \[[https://arxiv.org/abs/2111.09360 Preprint]\] \[[https://github.com/omarfoq/knn-per Code]\] \[[https://proceedings.mlr.press/v162/marfoq22a/marfoq22a.pdf Proceedings]] \[[pdfs/poster_icml_22.pdf Poster]\] 
+
 == 2021
 - *Othmane Marfoq*, Giovanni Neglia, Aurélien Bellet, Laetitia Kameni, Richard Vidal, /Federated Multi-Task Learning under a Mixture of Distributions/, NeurIPS 2021.\n
 \[[https://arxiv.org/abs/2108.10252 Preprint]\] \[[https://github.com/omarfoq/FedEM Code]\] \[[https://proceedings.neurips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf Proceedings]] \[[pdfs/poster_nips_21.pdf Poster]\] 
